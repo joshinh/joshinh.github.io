@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love outdoor activities like cycling and trekking. I am particularly enthusiastic about bird photography. I plan to add a collection of some of the pictures I have clicked soon! Apart from this I am an avid foodie and love exploring food from different places!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email : [joshinh@gmail.com](mailto:joshinh@gmail.com)
+Alternate Email : [nitishj@cse.iitb.ac.in](mailto:nitishj@cse.iitb.ac.in)
+Contact : +91-8275906918
