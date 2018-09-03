@@ -10,6 +10,6 @@ I love outdoor activities like cycling and trekking. I am particularly enthusias
 
 ### Contact me
 
-Email : [joshinh@gmail.com](mailto:joshinh@gmail.com)
-Alternate Email : [nitishj@cse.iitb.ac.in](mailto:nitishj@cse.iitb.ac.in)
+Email : [joshinh@gmail.com](mailto:joshinh@gmail.com)<br />
+Alternate Email : [nitishj@cse.iitb.ac.in](mailto:nitishj@cse.iitb.ac.in)<br />
 Contact : +91-8275906918
