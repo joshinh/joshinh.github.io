@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Reading List
 permalink: /reading_list/
 ---
