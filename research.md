@@ -16,7 +16,7 @@ Yichen Jiang <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup>, Yen-chun
 
 * Cross-Lingual Training for Automatic Question Generation<br/>
 Vishwajeet Kumar, **Nitish Joshi**, Arijit Mukherjee, Ganesh Ramakrishnan and Preethi Jyothi<br/>
-*Proceedings of [ACL 2019](http://www.acl2019.org/EN/index.xhtml), Florence, Italy*><br/> 
+*Proceedings of [ACL 2019](http://www.acl2019.org/EN/index.xhtml), Florence, Italy*<br/> 
 \[[pdf](https://joshinh.github.io/)\] \[[code](https://joshinh.github.io/)\]
 
 <sup>&dagger;</sup>*Equal Contribution*
