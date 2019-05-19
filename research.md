@@ -1,0 +1,14 @@
+---
+layout: post
+title: Reading List
+permalink: /reading_list/
+---
+
+My research interests broadly lie in the fields of Machine Learning and Natural Language Processing.
+Recently, I have also been interested in the theorotical aspects of Machine Learning.
+
+### Publications
+
+..* Explore, Propose and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension
+..Yichen Jiang, Nitish Joshi, Yen-chun Chen, and Mohit Bansal
+..*Proceedings of [ACL](http://www.acl2019.org/EN/index.xhtml) 2019, Florence, Italy * 
