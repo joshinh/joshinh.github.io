@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading List
+title: Research
 permalink: /research/
 ---
 
