@@ -106,6 +106,18 @@ strong, b {
   font-weight: bold;
 }
 
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 img {
   max-width: 100%;
 }
@@ -129,6 +141,8 @@ img {
   color: $black;
   background: $lightGray;
 }
+
+
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
