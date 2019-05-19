@@ -3,7 +3,7 @@ layout: page
 ---
 
 ![Profile Picture](profile_1.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px;border: 5"}
-I am currently a junior undergraduate student at Computer Science department, IIT Bombay. I am a part of the Computational Speech and Language Technologies ([CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/)) lab and am fortunate to be advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/). 
+I am currently a junior undergraduate student at the Computer Science department, [IIT Bombay](http://www.iitb.ac.in/). I am part of the Computational Speech and Language Technologies Lab ([CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/)) and am fortunate to be advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/). 
 
 My primary research interests lie in Machine Learning and Natural Language Processing. Check out the [Research](https://joshinh.github.io/research) tab to know more!
 
