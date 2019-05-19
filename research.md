@@ -11,6 +11,15 @@ Recently, I have also been interested in the theorotical aspects of Machine Lear
 
 * Explore, Propose and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension
 
-Yichen Jiang, Nitish Joshi, Yen-chun Chen, and Mohit Bansal
+..Yichen Jiang, Nitish Joshi, Yen-chun Chen, and Mohit Bansal
 
-*Proceedings of [ACL](http://www.acl2019.org/EN/index.xhtml) 2019, Florence, Italy * 
+..*Proceedings of [ACL](http://www.acl2019.org/EN/index.xhtml) 2019, Florence, Italy* 
+
+* Cross-Lingual Training for Automatic Question Generation
+
+..Vishwajeet Kumar, Nitish Joshi, Arijit Mukherjee, Ganesh Ramakrishnan and Preethi Jyothi 
+
+..*Proceedings of [ACL](http://www.acl2019.org/EN/index.xhtml) 2019, Florence, Italy* 
+
+
+
