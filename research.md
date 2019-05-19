@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-permalink: /reading_list/
+permalink: /research/
 ---
 
 My research interests broadly lie in the fields of Machine Learning and Natural Language Processing.
