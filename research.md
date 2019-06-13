@@ -12,12 +12,12 @@ Recently, I have also been interested in the theorotical aspects of Machine Lear
 * Explore, Propose and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension<br/>
 Yichen Jiang <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup>, Yen-chun Chen and Mohit Bansal<br/>
 *Proceedings of [ACL 2019](http://www.acl2019.org/EN/index.xhtml), Florence, Italy*<br/>
-\[[pdf](https://joshinh.github.io/)\] \[[code](https://joshinh.github.io/)\]
+\[[pdf](https://arxiv.org/pdf/1906.05210.pdf)\] \[[code](https://github.com/jiangycTarheel/EPAr)\]
 
 * Cross-Lingual Training for Automatic Question Generation<br/>
 Vishwajeet Kumar, **Nitish Joshi**, Arijit Mukherjee, Ganesh Ramakrishnan and Preethi Jyothi<br/>
 *Proceedings of [ACL 2019](http://www.acl2019.org/EN/index.xhtml), Florence, Italy*<br/> 
-\[[pdf](https://joshinh.github.io/)\] \[[code](https://joshinh.github.io/)\]
+\[[pdf](https://arxiv.org/pdf/1906.02525.pdf)\] \[[data](https://www.cse.iitb.ac.in/~ganesh/HiQuAD/clqg/)\]
 
 <sup>&dagger;</sup>*Equal Contribution*
 
