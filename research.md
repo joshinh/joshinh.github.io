@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research interests broadly lie in the fields of Machine Learning and Natural Language Processing.
+My research interests broadly lie in the fields of Natural Language Processing and Machine Learning.
 Recently, I have also been interested in the theorotical aspects of Machine Learning.
 
 ### Publications
@@ -18,6 +18,10 @@ Yichen Jiang <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup>, Yen-chun
 Vishwajeet Kumar, **Nitish Joshi**, Arijit Mukherjee, Ganesh Ramakrishnan and Preethi Jyothi<br/>
 *Proceedings of [ACL 2019](http://www.acl2019.org/EN/index.xhtml), Florence, Italy*<br/> 
 \[[pdf](https://arxiv.org/pdf/1906.02525.pdf)\] \[[data](https://www.cse.iitb.ac.in/~ganesh/HiQuAD/clqg/)\]
+
+* Coupled Training of Sequence-to-Sequence Models for Accented Speech Recognition<br/>
+Vinit Unni <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup> and Preethi Jyothi<br/>
+*Submitted to [ICASSP 2020](https://2020.ieeeicassp.org)*
 
 <sup>&dagger;</sup>*Equal Contribution*
 
