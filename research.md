@@ -56,7 +56,7 @@ Built interpretable models for multi-hop reading comprehension which searched an
 
 Many Natural Language Generation tasks assume access to large supervised datasets which may not be available for all languages. We proposed cross-lingual pre-training methods which could leverage information from data rich languages (such as English) to improve performance on the downstream task for low resource languages (such as Hindi). We also released a small Hindi QA dataset along with the work.
 
-**Accent Adaptation for Speech Recognition** <br/> [[report]](https://joshinh.github.io/files/RnD_Report.pdf) <br/>
+**Accent Adaptation for Speech Recognition** [[report]](https://joshinh.github.io/files/RnD_Report.pdf) <br/>
 *Guide: [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)*
 
 Majority of the state-of-the-art automatic speech recognition (ASR) systems for English are trained on the readily available US-accented data and perform poorly on other accents. We introduced domain adversarial training techniques to adapt ASR systems to low resource accents. Extended this work (later in 2019) by proposing a novel coupled training paradigm which exploited speech data with same text content. Our method gave huge gains in performance on heavy accents such as Indian.
