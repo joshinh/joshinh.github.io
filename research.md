@@ -37,7 +37,7 @@ Majority of the datasets collected by crowdsourcing tend to have noisy labels. A
 **Policy Iteration Lower Bounds for Multi-Action MDPs** [[report]](https://joshinh.github.io/files/CS747_report.pdf)<br/>
 *Guide: [Prof. Shivaram K](https://www.cse.iitb.ac.in/~shivaram/) (Course Project)*
 
-Simple Policy Iteration is a type of policy iteration algorithm where the policy of only one improvable state is changed at every step. [Melekopoglou and Condon](https://pdfs.semanticscholar.org/b321/9edc2ce55b2d7f5d45cc014a0d2733ed3051.pdf) showed an exponential lower bound for 2-action MDPs. We generalized the MDPs to k-actions and demonstrate a lower bound of O(k.2<sup>n</sup>).
+Simple Policy Iteration is a type of policy iteration algorithm where the policy of only one improvable state is changed at every step. [Melekopoglou and Condon](https://pdfs.semanticscholar.org/b321/9edc2ce55b2d7f5d45cc014a0d2733ed3051.pdf) showed an exponential lower bound for 2-action MDPs. We generalized the MDPs to k-actions and demonstrate a lower bound of O(k.exp(n)).
 
 **Explainable Natural Language Inference**<br/>
 *Guide: [Dr. Christopher Malon](http://www.nec-labs.com/christopher-malon) (Internship at NEC Labs, Princeton)*
