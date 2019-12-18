@@ -7,7 +7,7 @@ permalink: /research/
 My research interests broadly lie in the fields of Natural Language Processing and Machine Learning.
 Recently, I have also been interested in the theoretical aspects of Machine Learning.
 
-### Publications
+## Publications
 
 * Explore, Propose and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension<br/>
 Yichen Jiang <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup>, Yen-chun Chen and Mohit Bansal<br/>
@@ -25,9 +25,9 @@ Vinit Unni <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup> and Preethi
 
 <sup>&dagger;</sup>*Equal Contribution*
 
-### Research Projects
+## Research Projects
 
-2019
+### 2019
 
 **Learning with Noisy Sequence Labels**<br/>
 *Bachelor's Thesis guided by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)*
@@ -44,7 +44,7 @@ Simple Policy Iteration is a type of policy iteration algorithm where the policy
 
 Simple entailment models try to judge the hypotheses as true, false, or unsupported based on information in a single sentence or group of concatenated sentences, but this information is sometimes insufficient. We constructed datasets for multi-hop NLI by transforming existing multi-hop QA datasets and proposed models which could perform multi-hop reasoning. Our model could also generate explanations for the inferential relationship without any direct supervision.
 
-2018
+### 2018
 
 **Interpretable Multi-hop Reading Comprehension** [[paper]](https://www.aclweb.org/anthology/P19-1261/) <br/>
 *Guide: [Prof. Mohit Bansal]() (Internship at UNC Chapel Hill)*
