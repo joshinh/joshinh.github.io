@@ -21,7 +21,7 @@ Vishwajeet Kumar, **Nitish Joshi**, Arijit Mukherjee, Ganesh Ramakrishnan and Pr
 
 * Coupled Training of Sequence-to-Sequence Models for Accented Speech Recognition<br/>
 Vinit Unni <sup>&dagger;</sup>, **Nitish Joshi** <sup>&dagger;</sup> and Preethi Jyothi<br/>
-*Submitted to [ICASSP 2020](https://2020.ieeeicassp.org)*
+*To appear in Proceedings of [ICASSP 2020](https://2020.ieeeicassp.org), Barcelona, Spain*
 
 <sup>&dagger;</sup>*Equal Contribution*
 

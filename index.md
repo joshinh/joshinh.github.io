@@ -11,6 +11,7 @@ I visited University of North Carolina, Chapel Hill in Summer 2018 and was fortu
 
 ### Updates
 
+- **Jan 2020** Paper on Accent Adaptation for Speech Recognition accepted at ICASSP 2020. Paper link to be out very soon!
 - **July 2019** Presented two long papers (oral) on [Multi-Hop Reading Comprehension](https://arxiv.org/pdf/1906.05210.pdf) and [Cross-Lingual Question Generation](https://arxiv.org/pdf/1906.02525.pdf) at ACL 2019 in Florence, Italy
 - **May 2019** Internship at [NEC Labs](http://www.nec-labs.com), Princeton
 - **May 2018** Internship at [UNC-NLP](http://nlp.cs.unc.edu) Research Lab working with [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/)
