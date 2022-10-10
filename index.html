@@ -105,6 +105,79 @@
                     <h2>Publications</h2>
                     <ul class="pl">
 			<li>
+                            <a href="https://arxiv.org/abs/2107.00753" target="_blank">
+                                <b>Are All Spurious Correlations in Natural Language Alike? An Analysis
+through a Causal Lens</b>
+                            </a>
+                            <br/>
+                            <b>Nitish Joshi*</b>,
+			    <span class="author">Xiang Pan*</span>	 		
+                            and <a href="https://hhexiy.github.io" target="_blank"><span class="author">He He</span></a>.
+                            <br/>
+			    <a href="https://2022.emnlp.org" target="_blank">
+                                <b>
+                                    EMNLP 2022</b></a>
+                            <br/>
+                            [<a href="#" onclick="$('#joshi_spurious22_bib').toggle();return false;">bib</a>]
+                            [<a href="#" onclick="$('#joshi_spurious22_abstract').toggle();return false;">abstract</a>]
+                            <div id="joshi_spurious22_bib" class="abstract" style="display:none;">
+                            </br>
+                            <pre>
+@inproceedings{joshi2022spurious,
+        author={Nitish Joshi, Xiang Pan and He He},
+        title={Are All Spurious Correlations in Natural Language Alike? An Analysis
+through a Causal Lens},
+        booktitle={EMNLP},
+        year={2022}
+}
+
+                            </pre>
+                            </div>
+                            <div id="joshi_spurious22_abstract" class="abstract" style="display:none;">
+                            </br>
+                                <p>
+                        		The term ‘spurious correlations’ has been used in NLP to informally denote any undesirable feature-label correlations. However, a correlation can be undesirable because, (i) the feature is irrelevant to the label (e.g. punctuation in a review), or (ii) the feature’s effect on the label depends on the context (e.g. negation words in a review), which is ubiquitous in language tasks. While we want the model prediction to be independent of the feature in (i) since it is neither necessary nor sufficient, an ideal model (e.g. humans) must rely on the feature in (ii) since it is necessary but not sufficient. Therefore, a more fine-grained treatment of spurious correlations is needed to address the problem. We formalize this distinction by using a causal model and probabilities of necessity and sufficiency to delineate the causal relations between a feature and a label. We then show that this distinction helps explain results of existing debiasing methods on different spurious features, and demystifies surprising results such as the encoding of spurious features in model representations after debiasing.            
+				</p>
+                            </div>
+                        </li>
+			<br/>
+			<li>
+                            <a href="https://arxiv.org/abs/2107.00753" target="_blank">
+                                <b>Nuisances via Negativa: Adjusting for Spurious Correlations via Data Augmentation</b>
+                            </a>
+                            <br/>
+			    <span class="author">Aahlad Puli</span>	
+                            <b>Nitish Joshi</b>,
+			    <span class="author">He He*</span>	 		
+                            and <span class="author">Rajesh Ranganath</span></a>.
+                            <br/>
+			    
+                                <b>
+                                    Preprint</b>
+                            <br/>
+                            [<a href="#" onclick="$('#puli_nuisance22_bib').toggle();return false;">bib</a>]
+                            [<a href="#" onclick="$('#puli_nuisance22_abstract').toggle();return false;">abstract</a>]
+                            <div id="puli_nuisance22_bib" class="abstract" style="display:none;">
+                            </br>
+                            <pre>
+@article{Puli2022NuisancesVN,
+  title={Nuisances via Negativa: Adjusting for Spurious Correlations via Data Augmentation},
+  author={Aahlad Manas Puli and Nitish Joshi and He He and Rajesh Ranganath},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2210.01302}
+}
+                            </pre>
+                            </div>
+                            <div id="puli_nuisance22_abstract" class="abstract" style="display:none;">
+                            </br>
+                                <p>
+                        		There exist features that are related to the label in the same way across different settings for that task; these are semantic features or semantics. Features with varying relationships to the label are nuisances. For example, in detecting cows from natural images, the shape of the head is a semantic and because images of cows often have grass backgrounds but only in certain settings, the background is a nuisance. Relationships between a nuisance and the label are unstable across settings and, consequently, models that exploit nuisance-label relationships face performance degradation when these relationships change. Direct knowledge of a nuisance helps build models that are robust to such changes, but knowledge of a nuisance requires extra annotations beyond the label and the covariates. In this paper, we develop an alternative way to produce robust models by data augmentation. These data augmentations corrupt semantic information to produce models that identify and adjust for where nuisances drive predictions. We study semantic corruptions in powering different robust-modeling methods for multiple out-of distribution (OOD) tasks like classifying waterbirds, natural language inference, and detecting Cardiomegaly in chest X-rays.	            
+				</p>
+                            </div>
+                        </li>
+			<br/>
+			<li>
                             <a href="https://arxiv.org/abs/2112.08608" target="_blank">
                                 <b>QuALITY: Question Answering with Long Input Texts, Yes! </b>
                             </a>
