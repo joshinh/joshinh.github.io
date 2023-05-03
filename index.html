@@ -106,6 +106,44 @@
                     <ul class="pl">
 			<li>
                             <a href="https://arxiv.org/abs/2210.14011" target="_blank">
+                                <b>Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations</b>
+                            </a>
+                            <br/>
+			    <span class="author">Chenglei Si*</span>,
+			    <span class="author">Dan Friedman*</span>,
+                            <b>Nitish Joshi*</b>,
+			    <span class="author">Shi Feng</span>,
+			    <span class="author">Danqi Chen</span>
+                            <span class="author">He He</span>
+                            <br/>
+			    <a href="https://2023.aclweb.org" target="_blank">
+                                <b>
+                                    ACL 2023</b></a>
+                            <br/>
+                            [<a href="#" onclick="$('#chenglei_inductive23_bib').toggle();return false;">bib</a>]
+                            [<a href="#" onclick="$('#chenglei_inductive23_abstract').toggle();return false;">abstract</a>]
+                            <div id="chenglei_inductive23_bib" class="abstract" style="display:none;">
+                            </br>
+                            <pre>
+@article{chenglei2023inductive,
+   title={Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations},
+   author={Si, Chenglei and Friedman, Dan and Joshi, Nitish and Feng, Shi and Chen, Danqi and He, He},
+   booktitle={Association for Computational Linguistics (ACL)},
+   year={2023}
+}
+
+                            </pre>
+                            </div>
+                            <div id="chenglei_inductive23_abstract" class="abstract" style="display:none;">
+                            </br>
+                                <p>
+                        		In-context learning (ICL) is an emergent paradigm for adapting large language models (LLMs) to new tasks, but the generalization behavior of ICL remains poorly understood. We investigate the inductive biases of ICL from the perspective of feature bias: which features ICL is more likely to use given a set of underspecified demonstrations in which two features are equally predictive of the labels. First, we characterize the feature biases of GPT-3 models by constructing underspecified demonstrations from a range of NLP datasets and feature combinations. We find that LLMs exhibit clear feature biases---for example, demonstrating a strong bias to predict labels according to sentiment rather than shallow lexical features, like punctuation. Second, we evaluate the effect of different interventions that are designed to impose an inductive bias in favor of a particular feature, such as adding a natural-language instruction or using semantically relevant label words. We find that, while many interventions can influence the learner to prefer a particular feature, it can be difficult to overcome strong feature biases. Overall, our results provide a broader picture of the kinds of features ICL may be more likely to exploit, and how to impose inductive biases that are better aligned with the intended task.            
+				</p>
+                            </div>
+                        </li>
+			<br/>
+			<li>
+                            <a href="https://arxiv.org/abs/2210.14011" target="_blank">
                                 <b>Are All Spurious Features in Natural Language Alike? An Analysis
 through a Causal Lens</b>
                             </a>
