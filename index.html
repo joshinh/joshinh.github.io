@@ -134,6 +134,48 @@
                         </li>
             <br/>    
 			<li>
+                            <a href="https://arxiv.org/abs/2506.05339" target="_blank">
+                                <b>Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models</b>
+                            </a>
+                            <br/>
+		<span class="author">Anirudh Bharadwaj</span>,
+		<span class="author">Chaitanya Malaviya</span>,
+		<b>Nitish Joshi</b>,		
+                <span class="author">Mark Yatskar</span>
+                            <br/>
+                                <b>
+                                    Preprint</b>
+                            <br/>
+                            [<a href="#" onclick="$('#bharadwaj_biases25_bib').toggle();return false;">bib</a>]
+                            [<a href="#" onclick="$('#bharadwaj_biases25_abstract').toggle();return false;">abstract</a>]
+                            <div id="bharadwaj_biases25_bib" class="abstract" style="display:none;">
+                            </br>
+                            <pre>
+@article{Bharadwaj2025FlatteryFA,
+  title={Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models},
+  author={Anirudh Bharadwaj and Chaitanya Malaviya and Nitish Joshi and Mark Yatskar},
+  journal={ArXiv},
+  year={2025},
+  volume={abs/2506.05339},
+}
+
+                            </pre>
+                            </div>
+                            <div id="bharadwaj_biases25_abstract" class="abstract" style="display:none;">
+                            </br>
+                                <p>
+                                Language models serve as proxies for human preference judgements in alignment and evaluation, yet they exhibit systematic miscalibration, prioritizing superficial patterns over substantive qualities.
+				This bias manifests as overreliance on features like length, structure, and style, leading to issues like reward hacking and unreliable evaluations.
+				Evidence suggests these biases originate in artifacts in human training data. In this work, we systematically investigate the relationship between training data biases and preference model miscalibration across five idiosyncratic features of language model generations: length, structure, jargon, sycophancy and vagueness.
+				Using controlled counterfactual pairs, we first quantify the extent to which preference models favor responses with magnified biases (skew), finding this preference occurs in >60% of instances, and model preferences show high miscalibration (~40%) compared to human preferences.
+				Notably, bias features only show mild negative correlations to human preference labels (mean r_human = -0.12) but show moderately strong positive correlations with labels from a strong reward model (mean r_model = +0.36), suggesting that models may overrely on spurious cues.
+				To mitigate these issues, we propose a simple post-training method based on counterfactual data augmentation (CDA) using synthesized contrastive examples.
+				Finetuning models with CDA reduces average miscalibration from 39.4% to 32.5% and average absolute skew difference from 20.5% to 10.0%, while maintaining overall RewardBench performance, showing that targeted debiasing is effective for building reliable preference models.
+				</p>
+                            </div>
+                        </li>
+            <br/>    
+			<li>
                             <a href="https://arxiv.org/abs/2412.04703" target="_blank">
                                 <b>Transformers Struggle to Learn to Search</b>
                             </a>
