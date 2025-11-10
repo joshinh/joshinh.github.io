@@ -91,6 +91,44 @@
                     <h2>Publications</h2>
                     <ul class="pl">
 			<li>
+                            <a href="https://arxiv.org/abs/2510.01367" target="_blank">
+                                <b>Is It Thinking or Cheating? Detecting Implicit Reward Hacking by Measuring Reasoning Effort</b>
+                            </a>
+                            <br/>
+		<span class="author">Xinpeng Wang*</span>,
+		<b>Nitish Joshi*</b>,
+		<span class="author">Barbara Plank</span>,		
+        <span class="author">Rico Angell</span>,
+		<span class="author">He He</span>
+                            <br/>
+                                    Preprint, 2025
+                            <br/>
+                            [<a href="#" onclick="$('#wang_hacking25_bib').toggle();return false;">bib</a>]
+                            [<a href="#" onclick="$('#wang_hacking25_abstract').toggle();return false;">abstract</a>]
+                            <div id="wang_hacking25_bib" class="abstract" style="display:none;">
+                            </br>
+                            <pre>
+@article{wang2025hacking,
+      title={Is It Thinking or Cheating? Detecting Implicit Reward Hacking by Measuring Reasoning Effort}, 
+      author={Xinpeng Wang and Nitish Joshi and Barbara Plank and Rico Angell and He He},
+      year={2025},
+      eprint={2510.01367},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2510.01367}, 
+}
+
+                            </pre>
+                            </div>
+                            <div id="wang_hacking25_abstract" class="abstract" style="display:none;">
+                            </br>
+                                <p>
+                                Reward hacking, where a reasoning model exploits loopholes in a reward function to achieve high rewards without solving the intended task, poses a significant threat. This behavior may be explicit, i.e. verbalized in the model's chain-of-thought (CoT), or implicit, where the CoT appears benign thus bypasses CoT monitors. To detect implicit reward hacking, we propose TRACE (Truncated Reasoning AUC Evaluation). Our key observation is that hacking occurs when exploiting the loophole is easier than solving the actual task. This means that the model is using less 'effort' than required to achieve high reward. TRACE quantifies effort by measuring how early a model's reasoning becomes sufficient to obtain the reward. We progressively truncate a model's CoT at various lengths, force the model to answer, and estimate the expected reward at each cutoff. A hacking model, which takes a shortcut, will achieve a high expected reward with only a small fraction of its CoT, yielding a large area under the accuracy-vs-length curve. TRACE achieves over 65% gains over our strongest 72B CoT monitor in math reasoning, and over 30% gains over a 32B monitor in coding. We further show that TRACE can discover unknown loopholes during training. Overall, TRACE offers a scalable unsupervised approach for oversight where current monitoring methods prove ineffective.
+								</p>
+                            </div>
+                        </li>
+            <br/>
+			<li>
                             <a href="https://arxiv.org/abs/2506.10949" target="_blank">
                                 <b>Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors</b>
                             </a>
